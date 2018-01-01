@@ -31,7 +31,8 @@
 # [团队](group/index.md)
 ## [加入团队](group/join.md)
 ## [创建团队](group/create.md)
-## [团队管理](group/manage.md)
+## 团队管理
+### [团队信息](group/basic.md)
 ### [团队题库](group/problem-set.md)
 ### [团队比赛](group/contest.md)
 ### [成员管理](group/member.md)
