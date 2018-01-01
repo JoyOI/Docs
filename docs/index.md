@@ -1,3 +1,1 @@
-﻿![img](~/images/logo.png)
-
-Hello world
+﻿欢迎您来到Joy OI帮助中心，请在左侧选择相应分类，以阅读帮助文档。
