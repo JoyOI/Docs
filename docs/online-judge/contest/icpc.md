@@ -8,4 +8,6 @@
 
 比赛排名按照通过题目数降序排序，当通过题目数相同时，题目罚时越少的选手排名越靠前。
 
+选手在比赛过程中可查看排名
+
 ![ICPC Standings](~/images/icpc-standings.png)
