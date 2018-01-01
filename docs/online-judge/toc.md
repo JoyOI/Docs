@@ -26,7 +26,6 @@
 ## [查看评测结果](judge/result.md)
 
 # [Hack](hack/index.md)
-## [Hack他人代码](hack/hack.md)
 ## [查看Hack结果](hack/result.md)
 
 # [团队](group/index.md)
