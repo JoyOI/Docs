@@ -1,6 +1,9 @@
 ﻿# [题目与题库](problem/index.md)
 ## [本地题库](problem/local.md)
 ## [远程题库](problem/remote.md)
+### [Bzoj的限制](problem/bzoj.md)
+### [LeetCode的限制](problem/leet-code.md)
+### [CodeVS的限制](problem/code-vs.md)
 ## [查看题目](problem/view.md)
 ## [提交评测](problem/submit.md)
 ## [提交自测](problem/self-test.md)
@@ -24,7 +27,6 @@
 # [Hack](hack/index.md)
 ## [Hack他人代码](hack/hack.md)
 ## [查看Hack结果](hack/result.md)
-
 
 # [团队](group/index.md)
 ## [加入团队](group/join.md)
