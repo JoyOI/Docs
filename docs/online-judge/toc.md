@@ -1,6 +1,7 @@
 ﻿# [题目与题库](problem/index.md)
 ## [本地题库](problem/local.md)
 ## [远程题库](problem/remote.md)
+## [查看题目](problem/view.md)
 ## [提交评测](problem/submit.md)
 ## [提交自测](problem/self-test.md)
 ## [创建题目](problem/create.md)
