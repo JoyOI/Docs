@@ -1,4 +1,4 @@
-﻿# [Joy OI 文档平台](index.md)
+﻿# [Joy OI 帮助中心](index.md)
 ## [Online Judge](online-judge/toc.md)
 
 ## [论坛](forum/toc.md)
