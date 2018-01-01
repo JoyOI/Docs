@@ -1,3 +1,3 @@
-﻿![img](/images/logo.png)
+﻿![img](~/images/logo.png)
 
 Hello world
