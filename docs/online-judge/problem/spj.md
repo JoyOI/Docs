@@ -6,7 +6,8 @@
 
 系统将根据比较器的返回值进行评测结果认定。
 
-| 返回值 | 说明 | 
+| 返回值 | 说明 |
+| ------ | ---- |
 |    0   | Accepted |
 |    1   | Presentation Error |
 |    2   | Wrong Answer |
