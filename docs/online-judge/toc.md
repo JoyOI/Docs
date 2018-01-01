@@ -19,6 +19,7 @@
 ### [Codeforces 赛制](contest/cf.md)
 ### [Open OI 赛制](contest/open-oi.md)
 ## [参加比赛](contest/attend.md)
+### [参加模拟赛](contest/virtual.md)
 ## [创建比赛](contest/create.md)
 
 # [评测](judge/index.md)
