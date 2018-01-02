@@ -22,8 +22,9 @@
 ### [参加模拟赛](contest/virtual.md)
 ## [创建比赛](contest/create.md)
 
-# [评测](judge/index.md)
+# [评测记录](judge/index.md)
 ## [查看评测结果](judge/result.md)
+## [提交评测](problem/submit.md)
 
 # [Hack](hack/index.md)
 ## [查看Hack结果](hack/result.md)
