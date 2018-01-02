@@ -37,3 +37,4 @@
 ### [团队比赛](group/contest.md)
 ### [成员管理](group/member.md)
 ### [成员审核](group/verify.md)
+## [退出团队](group/escape.md)
