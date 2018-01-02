@@ -4,3 +4,4 @@
 ## [论坛](forum/toc.md)
 ## [个人空间](blog/toc.md)
 ## [用户中心](user-center/toc.md)
+## [监控中心](monitor/toc.md)
