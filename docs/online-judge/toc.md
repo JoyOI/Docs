@@ -24,6 +24,7 @@
 
 # [评测记录](judge/index.md)
 ## [查看评测结果](judge/result.md)
+## [重测指定记录](judge/rejudge.md)
 
 # [Hack](hack/index.md)
 ## [查看Hack结果](hack/result.md)
