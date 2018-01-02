@@ -6,7 +6,7 @@
 ### [CodeVS的限制](problem/code-vs.md)
 ## [查看题目](problem/view.md)
 ## [提交评测](problem/submit.md)
-## [提交自测](problem/self-test.md)
+### [自测](problem/self-test.md)
 ## [创建题目](problem/create.md)
 ### [标准程序](problem/std.md)
 ### [数据范围校验器](problem/range.md)
@@ -24,7 +24,6 @@
 
 # [评测记录](judge/index.md)
 ## [查看评测结果](judge/result.md)
-## [提交评测](problem/submit.md)
 
 # [Hack](hack/index.md)
 ## [查看Hack结果](hack/result.md)
