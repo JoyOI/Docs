@@ -5,3 +5,7 @@
 ![Group problem](~/images/group-problem.png)
 
 管理员在团队域下创建的题目，默认会自动添加到团队题库中。
+
+在您设置好题库题目后，团队的普通成员将仅看到如下已经被团队管理员添加至题库的题目列表。
+
+![Group problem](~/images/group-problem-list.png)
