@@ -7,6 +7,7 @@
 ## [查看题目](problem/view.md)
 ## [提交评测](problem/submit.md)
 ### [自测](problem/self-test.md)
+## [题解](problem/solution.md)
 ## [创建题目](problem/create.md)
 ### [标准程序](problem/std.md)
 ### [数据范围校验器](problem/range.md)
