@@ -8,6 +8,7 @@
 ## [活跃用户监控](oj-activity.md)
 ## [评测记录监控](judge.md)
 ## [Hack记录监控](hack.md)
+## [比赛监控](contest.md)
 ## [团队成立监控](group.md)
 # 论坛
 ## [新主题监控](topics.md)
