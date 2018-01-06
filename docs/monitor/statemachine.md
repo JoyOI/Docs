@@ -19,7 +19,7 @@ Joy OI中所有的本地评测任务、本地Hack任务、远程题库评测、�
 
 您可以通过点击图例中色块右侧的状态机名称以筛选该图表中的结果。
 
-![Lifetime](~/images/statemachine-lifetime)
+![Lifetime](~/images/statemachine-lifetime.png)
 
 第二个图表则反应了各种状态机在您指定的时间范围内，运行的时间。通常每个`JudgeStateMachine`和`HackStateMachine`会运行10秒左右，而`VirtualJudgeStateMachine`会运行10到60秒不等。若出现大量状态机运行时长超过1分钟，则表示系统可能发生故障。
 
