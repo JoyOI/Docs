@@ -1,6 +1,8 @@
 ﻿# 登录监控中心
 
-您需要使用Root账号来登录到Joy OI监控中心中，普通用户是没有权限查看监控中心中的数据的。[点击这里进入监控中心](http://joyoi-monitor.chinacloudsites.cn/Account/Login)。
+您需要使用Root账号来登录到Joy OI监控中心中，普通用户是没有权限查看监控中心中的数据的。
+
+[点击这里进入监控中心](http://joyoi-monitor.chinacloudsites.cn/Account/Login)。
 
 ![Login](~/images/monitor-login.png)
 
