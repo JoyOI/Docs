@@ -23,6 +23,7 @@
 ## [参加比赛](contest/attend.md)
 ### [参加模拟赛](contest/virtual.md)
 ## [创建比赛](contest/create.md)
+### [设置比赛裁判](contest/referee.md)
 
 # [评测记录](judge/index.md)
 ## [查看评测结果](judge/result.md)
